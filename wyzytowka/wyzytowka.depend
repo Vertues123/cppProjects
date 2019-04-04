@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1528807244 source:c:\users\pc\documents\c++\wyzytowka\main.cpp
+	<iostream>
+	<fstream>
+
+1528808147 source:c:\users\pc\documents\c++\wyzytowka\main2.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

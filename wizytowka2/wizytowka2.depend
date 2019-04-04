@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528808374 source:c:\users\pc\documents\c++\wizytowka2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
