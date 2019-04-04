@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528804419 source:c:\users\pc\documents\c++\kalkpr\main.cpp
+	<iostream>
+	<cstdlib>
+

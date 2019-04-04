@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528981855 source:c:\users\pc\documents\c++\czaspracywskazniki\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
