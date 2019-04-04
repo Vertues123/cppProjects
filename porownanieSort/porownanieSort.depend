@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529056143 source:c:\users\pc\documents\c++\porownaniesort\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+

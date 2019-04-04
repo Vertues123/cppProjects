@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529055424 source:c:\users\pc\documents\c++\quicksort\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+

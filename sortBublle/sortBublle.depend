@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529053853 source:c:\users\pc\documents\c++\sortbublle\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
